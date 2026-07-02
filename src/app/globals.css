@@ -2,7 +2,10 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 6rem;
+  scroll-padding-top: 1rem;
+}
+section[id] {
+  scroll-margin-top: 1rem;
 }
 
 body {
